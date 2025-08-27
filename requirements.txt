@@ -1,0 +1,6 @@
+pandas
+matplotlib
+reportlab
+
+# optional for building exe
+pyinstaller
